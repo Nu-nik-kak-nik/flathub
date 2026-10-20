@@ -29,5 +29,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/Nu-nik-kak-nik/Numo.git
-        tag: v0.4
-        commit: 43d2d0560ba07ac5f512d96fe749f910061c20a8
+        tag: v0.5
+        commit: 57c0a2a0d8b5eafb4641a77a279a5b1e83aa6d82
